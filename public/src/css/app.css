@@ -1,0 +1,14 @@
+.thumbnail img {
+	min-width: 150px;
+	height: 300px;
+}
+.price{
+	font-weight: bolder;
+}
+.product-description{
+	color: gray;
+}
+.row-header{
+	width: 100%;
+
+}
